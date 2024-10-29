@@ -6,7 +6,7 @@ from PIL import Image
 
 # Paths to DIV2K dataset
 high_res_dir = ''  # Path to high-res DIV2K images
-low_res_dir = ''   # Pth  to low-res images
+low_res_dir = ''   # Path  to low-res images
 
 # Image dimensions (HR size, typically 4x the LR size for SRGANs)
 high_res_size = (256, 256)
