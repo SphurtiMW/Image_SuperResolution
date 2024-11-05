@@ -5,8 +5,8 @@ import numpy as np
 from PIL import Image
 
 # Paths to DIV2K dataset
-high_res_dir = r'C:\Users\sphur\OneDrive\Desktop\High_Res\DIV2K_train_HR'  # Path to high-res DIV2K images
-low_res_dir = r'C:\Users\sphur\OneDrive\Desktop\High_Res'   # Optional if you want to save low-res images
+high_res_dir = r'C:\Users\sphur\Downloads\High_Res\DIV2K_train_HR'  # Path to high-res DIV2K images
+low_res_dir = r'C:\Users\sphur\Downloads\High_Res'   # Optional if you want to save low-res images
 
 # Image dimensions (HR size, typically 4x the LR size for SRGANs)
 high_res_size = (256, 256)
