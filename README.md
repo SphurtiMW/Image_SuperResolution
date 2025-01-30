@@ -77,7 +77,7 @@ To run this project locally, follow these steps:
 #### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/chest-xray-super-resolution.git
+git clone https://github.com/SphurtiMW/Image_SuperResolution.git
 cd chest-xray-super-resolution
 ```
 
