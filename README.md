@@ -78,7 +78,7 @@ To run this project locally, follow these steps:
 
 ```bash
 git clone https://github.com/SphurtiMW/Image_SuperResolution.git
-cd chest-xray-super-resolution
+cd ImageSuperResolution
 ```
 
 #### **2. Install Dependencies**
