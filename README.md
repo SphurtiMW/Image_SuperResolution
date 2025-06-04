@@ -30,7 +30,6 @@ The model was fine-tuned to make it compatible with grayscale medical image data
 - **Model**: Super-Resolution GAN (SRGAN)
 - **Dataset**: NIH Chest X-ray Dataset
 - **Frameworks**: PyTorch, Flask
-- **Frontend**: HTML, CSS (for basic UI)
 - **Deployment**: Render / Local Deployment
 
 ### **Model Performance Metrics**
